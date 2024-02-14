@@ -1,0 +1,59 @@
+{
+    "vendor":[
+        {
+            "code":"0001",
+            "company_name":"Futuresoft  Solutions Pvt Ltd",
+            "contact_person":"Sharjeel Ahmad",
+            "mobile":"9958299372",
+            "gst_no":"07AAACF1895R1ZZ",
+            "pan_no":"AAACF1895R",
+            "total_invoice_amount":"8822911"
+        },
+        {
+            "code":"0002",
+            "company_name":"AO (Cash), Bharat Sanchar Nigam Dehradun",
+            "contact_person":"Dr Preiti Gupta",
+            "mobile":"8989896969",
+            "gst_no":"05AABCB5576G3ZP",
+            "pan_no":"AABCB5576G",
+            "total_invoice_amount":"331034"
+        },
+        {
+            "code":"0003",
+            "company_name":"NIELIT HARIDWAR CENTRE",
+            "contact_person":"Anand Singh",
+            "mobile":"",
+            "gst_no":"05AAATD0315M1Z3",
+            "pan_no":"AAATD0315M",
+            "total_invoice_amount":"177000"
+        },
+        {
+            "code":"0004",
+            "company_name":"Daikin Airconditioning India Pvt Ltd",
+            "contact_person":"",
+            "mobile":"",
+            "gst_no":"05AABCD0971F1Z2",
+            "pan_no":"AABCD0971F",
+            "total_invoice_amount":"97055"
+        },
+        {
+            "code":"0005",
+            "company_name":"Doon Fuels HP",
+            "contact_person":"",
+            "mobile":"",
+            "gst_no":"05AQQPS2862N1Z1",
+            "pan_no":"AQQPS2862N",
+            "total_invoice_amount":"45140"
+        },
+        {
+            "code":"0006",
+            "company_name":"Will & Skill Creation Pvt Ltd",
+            "contact_person":"Amit Goswami",
+            "mobile":"9634559780",
+            "gst_no":"05AABCW6343G1ZF",
+            "pan_no":"ABCTY1234D",
+            "total_invoice_amount":"9204"
+        }
+
+    ]
+}

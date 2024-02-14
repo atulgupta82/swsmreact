@@ -1,0 +1,5 @@
+.border_dotted{
+    border: 1px dotted grey;
+    border-radius: 10px;
+    background: #f9f9f9;
+}

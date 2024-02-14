@@ -1,0 +1,13 @@
+.main_page{
+  background-color: #F2F4F8;
+}
+
+*{
+  font-family: 'Inter', sans-serif;
+}
+
+label,p,span,h1,h3{
+  font-family: "Inter" !important;
+}
+
+

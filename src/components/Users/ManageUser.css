@@ -1,0 +1,18 @@
+.user_action{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+}
+
+.user_action svg{
+    font-size: 15px;
+}
+
+.user_action span{
+    cursor: pointer;
+}
+
+.user_action a{
+    color: inherit;
+}
+

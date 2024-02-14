@@ -1,0 +1,22 @@
+{
+    "scheme":[
+        {
+            "code":"34256060002",
+            "dept_name":"Information Technology",
+            "scheme_name":"3425-Other Scientific Research 60-Others, 600-Other Schemes 02-Strengthening of the State Information Technology/ Grand for ITDA",
+            "scheme_type":"revenue",
+            "budget":"349000000",
+            "sanction_amount":"11000000",
+            "total_payment":"2879043"
+        },
+        {
+            "code":"34256060003",
+            "dept_name":"Information Technology",
+            "scheme_name":"3425-Other Scientific Research 60-Others, 600-Other Schemes 02-Strengthening of the State Information Technology/ Grand for ITDA",
+            "scheme_type":"revenue",
+            "budget":"2215000000",
+            "sanction_amount":"50000000",
+            "total_payment":"35291644"
+        }
+    ]
+}

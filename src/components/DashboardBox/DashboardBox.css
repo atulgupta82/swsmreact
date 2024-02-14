@@ -1,0 +1,68 @@
+.dashboardBox{
+   
+    background-color: #ffffff;
+    padding: 10px;
+    /* justify-content: space-between; */
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.eac_grid{
+    background-color: #EBF0FC;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    min-width: 212px;
+    gap: 10px;
+    min-height: 134px;
+    margin: 5px;
+}
+
+.amount_icon_wrapper{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.grid_icon{
+    background-color: #6B94EA;
+    border-radius: 50%;
+    color: #fff;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.grid_icon svg{
+    vertical-align: middle;
+}
+
+.amountText{
+    color: #3B3E44;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Inter" !important;
+}
+
+.grid_title{
+    color: #3B3E44;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Inter" !important;
+}
+
+.grid_caption{
+    color: #6B94EA;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: "Inter" !important;
+}
+
+.add_interesetBtn{
+    cursor: pointer;
+}

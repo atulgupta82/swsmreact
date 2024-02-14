@@ -1,0 +1,25 @@
+.budget_analysis{
+    display: flex;
+    gap:10px;
+    background-color: #fff;
+    padding: 10px 10px;
+    margin: 15px 10px;
+    align-items: center;
+    border-radius: 14px;
+}
+.budget_analysis h1{
+    font-size: 24px;
+    color: #000000;
+    font-weight: 400;
+    width: 50%;
+}
+.budget_date_wrapper{
+    /* display: flex;
+    align-items: center;
+    gap: 10px; */
+    width: 100%;
+}
+.budget_date_picker input{
+    height: 8px !important;
+    overflow: hidden;
+}

@@ -1,0 +1,33 @@
+.tools{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+.tools_wrapper{
+    padding: 10px 0px;
+    padding-left: 1rem;
+    display: flex;
+    gap: 4rem;
+    background: #fff;
+}
+.eachTool{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.eachToolIcon img{
+    width: 24px;
+    height: 24px;
+}
+.eachToolText{
+    color: #5684E4;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.goback{
+    cursor: pointer;
+    font-size: 2rem;
+}

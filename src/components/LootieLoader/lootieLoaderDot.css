@@ -1,0 +1,29 @@
+.dot_loaderWrapper{
+    right: 42%;
+    height: 200px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    position: absolute;
+    background: #ffffffc9;
+    border-radius: 20px;
+    border: 2px solid #624343;
+    right: 25%;
+    top: 44%;
+    flex-direction: column;
+    padding-bottom: 2rem;
+}
+.dot_loader_mainWrapper{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9;
+}

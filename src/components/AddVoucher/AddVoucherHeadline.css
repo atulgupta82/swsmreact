@@ -1,0 +1,42 @@
+/* 
+.AddVoucherHeadline{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} */
+
+.AddVoucherHeadline{
+    display: flex;
+    gap:10px;
+    background-color: #fff;
+    padding: 10px 10px;
+    margin: 15px 10px;
+    align-items: center;
+    border-radius: 14px;
+    justify-content: space-between;
+    align-items: center;
+}
+.AddVoucherHeadline h1{
+    font-size: 24px;
+    color: #000000;
+    font-weight: 400;
+}
+
+.otherdeductionWrapper{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.total_amount_wrapper{
+    display: flex;
+    justify-content: end;
+    padding-right: 11rem !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.scheme_card{
+    background-color: #E4E5E9 !important;
+}
+
